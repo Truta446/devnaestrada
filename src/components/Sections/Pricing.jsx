@@ -9,7 +9,7 @@ export default function Pricing() {
       <div className="whiteBg">
         <div className="container">
           <HeaderInfo>
-            <h1 className="font40 extraBold">Check Our Pricing</h1>
+            <h1 className="font40 extraBold">Confira nossos preços!</h1>
             <p className="font13">
               Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut
               <br />
@@ -30,7 +30,7 @@ export default function Pricing() {
                   { name: "Product", cheked: false },
                   { name: "Product Offer", cheked: false },
                 ]}
-                action={() => alert("clicked")}
+                action={() => console.log("clicked")}
               />
             </TableBox>
             <TableBox>
@@ -46,7 +46,7 @@ export default function Pricing() {
                   { name: "Product", cheked: true },
                   { name: "Product Offer", cheked: false },
                 ]}
-                action={() => alert("clicked")}
+                action={() => console.log("clicked")}
               />
             </TableBox>
             <TableBox>
@@ -62,7 +62,7 @@ export default function Pricing() {
                   { name: "Product", cheked: true },
                   { name: "Product Offer", cheked: true },
                 ]}
-                action={() => alert("clicked")}
+                action={() => console.log("clicked")}
               />
             </TableBox>
           </TablesWrapper>

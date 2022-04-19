@@ -1,4 +1,4 @@
-# Fanatic is free React Template made for [Graphberry](https://www.graphberry.com/).
+# DevNaEstrada is free React Template made for [Graphberry](https://www.graphberry.com/).
 
 You can Preview this template on [Graphberry webiste](https://www.graphberry.com/item/fanatic-free-react-landing-page).
 or you can clone it from here.
