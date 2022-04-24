@@ -63,7 +63,7 @@ export default function TopNavbar() {
             </li>
             <li className="semiBold font15 pointer">
               <Link activeClass="active" style={{ padding: "10px 15px" }} to="contact" spy={true} smooth={true} offset={-80}>
-                Contato
+                Contatos
               </Link>
             </li>
           </UlWrapper>

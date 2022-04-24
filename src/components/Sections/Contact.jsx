@@ -68,6 +68,7 @@ export default function Contact() {
 
 const Wrapper = styled.section`
   width: 100%;
+  padding: 50px 0;
 `;
 const HeaderInfo = styled.div`
   padding: 70px 0 30px 0;

@@ -11,7 +11,7 @@ export default function Contact() {
   }
 
   return (
-    <Wrapper>
+    <Wrapper id="footer">
       <div className="darkBg">
         <div className="container">
           <InnerWrapper className="flexSpaceCenter" style={{ padding: "30px 0" }}>
